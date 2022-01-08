@@ -1,1 +1,1 @@
-# minst-classification-analysis
+# mnist-classification-analysis
